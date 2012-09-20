@@ -1,4 +1,6 @@
 Módulo raiz do sistema.
+Módulo de documentação de como é organizado o sistema.
+  Explicando o que faz cada módulo.
 Módulo para conexão segura com o Banco de Dados.
 Módulo para realização de consultas ao Banco de Dados de forma segura.
 Módulo para depósito de arquivos client side javascript.
@@ -12,8 +14,10 @@ Módulo de definições de constantes do sistema.
 Módulo para criar dicionáro de dados automatizado do sistema.
   Submódulo para atualização automática dos dicionários.
   Submódulo para dicionário de dados de imagems (nome, extensão, tamanhos e
-outras propriedades pertinentes).
+    outras propriedades pertinentes).
   Submódulo para dicionário de dados de arquivos de estilo, css (nome do
-arquivo, descrição elucidando qual seu uso, dicionário de todas
-tags/propriedades de estilo criadas).
-  Submódulo para dicionário de dados de arquivos javascript
+    arquivo, descrição elucidando qual seu uso, dicionário de todas
+    tags/propriedades de estilo criadas).
+  Submódulo para dicionário de dados de arquivos javascript.
+  Submódulo com todas as funções do sistema.
+  Submódulo com todos arquivos (com sua descrição) do sistema.
