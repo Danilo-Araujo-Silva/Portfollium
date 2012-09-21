@@ -22,4 +22,9 @@ Módulo para criar dicionáro de dados automatizado do sistema.
   Submódulo com todas as funções do sistema.
   Submódulo com todos arquivos (com sua descrição) do sistema.
 Módulo de logs.
+Interessante possuir um módulo para gerenciar inclusão de arquivos. Tratando
+  os erros dos includes e requires.
+Criar um módulo apenas para arquivos .htaccess. Todos os arquivos deverão estar nesse
+  módulo. Os arquivos que precisem ficar em pastas específicas terão um link simbólico
+  para os arquivos deste módulo.
 
