@@ -29,3 +29,5 @@ Criar um módulo apenas para arquivos .htaccess. Todos os arquivos deverão estar 
   para os arquivos deste módulo.
 Criar um módulo que apresente em modo web navegável e pesquisável quaisquer padronizações usadas no sistema 
 (nome de arquivos, nomes de pastas, definição de variáveis, etc.).
+Módulo para gerenciar erros e warnings do sistema. Define uma apresentação personalizada deste.
+  Provavelmente um link para um log externo.
